@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Saket Patel 👋
 
-<!--
-**Saket7866/Saket7866** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Java Backend Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering graduate focused on building backend applications
+and strengthening my skills in Java, Spring Boot, REST APIs, SQL, and
+Data Structures & Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+
+- Java
+- JavaScript
+- Spring Boot
+- REST APIs
+- Node.js
+- Express.js
+- React.js
+- MySQL
+- MongoDB
+- Git & GitHub
+
+### 📚 Currently Learning
+
+- Spring Boot
+- Backend Development
+- SQL & Database Design
+- Data Structures & Algorithms
+- REST API Development
+
+### 🚀 Projects
+
+- **OnAir – Watch What You Love** — Full-stack movie and entertainment application
+- **Food Hub** — React-based food application
+
+### 🎯 Current Focus
+
+Building strong foundations in Java Backend Development and developing
+real-world backend projects using Spring Boot.
+
+### 🤝 Connect With Me
+
+- LinkedIn:  www.linkedin.com/in/saket-patel-backend-dev
+- GitHub: https://github.com/Saket7866
